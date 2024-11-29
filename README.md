@@ -37,4 +37,5 @@ To automate the form filling, the findElements and findElement methods are used.
 
 ## Recorded Video Using Screen recoder
 
-[Watch the video on Google Drive](https://drive.google.com/file/d/1R1WwcrHG3BLnuPRQkez9jb_YvpzKee8h/view?usp=sharing)
+https://github.com/user-attachments/assets/6bd504a9-f522-4473-a348-df2803a7f186
+
